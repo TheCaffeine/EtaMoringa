@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+img {
+  width: 100%;
+}
+</style>
+</head>
+<body>
+
+<h1>Etana</h1>
+<ul>
+<li> Sign up</li>
+<li> About us</li>
+<li> Faq</li>
+</ul>
+
+<h2>Africa's first Online Youth Incubator.</h2>
+<p> This is where your ideas come to life. Etana exists, to enable youth in Africa to become entreprenuers and help the continent solve the high unemploymet rate in Africa.  </p>
+<img src ="https://unsplash.com/photos/3JTbarf3Xd0.jpg"> style="width:500px;height:600px;">
+<h3>Here is>list of countries we operate in across Africa."
+<ul>
+ <li>Kenya</li>
+ <li>South_Africa</li>
+ <li>Egypt</li>
+ <li>Ghana</li>
+ </ul>
+
+</html>
