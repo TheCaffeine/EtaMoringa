@@ -5,12 +5,12 @@
 
 ### Table of contents 
 
-# Project Name 
-# Author Name 
-# Description 
-# Set up instructions
-# Reference links
-# Licence information 
+#### Project Name 
+#### Author Name 
+#### Description 
+#### Set up instructions
+#### Reference links
+#### Licence information 
 
 
 ## Project Name
