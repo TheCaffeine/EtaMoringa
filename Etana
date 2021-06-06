@@ -4,38 +4,39 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width="device-width, intial-scale=1">
         <title>
-            Etana
+            Mark Abenger
         </title>
     </head>
     <body>
-        <h1>Etana</h1>
+        <h1>Abenger</h1>
         <ul>
             <li> Sign up</li>
-            <li> About us</li>
-            <li> Faq</li>
+            <li> About Me</li>
+            <li> Contacts</li>
             </ul>
             
-            <h2>Africa's first Online Youth Incubator.</h2>
-            <p> This is where your ideas come to life. Etana exists, to enable youth in Africa to become entreprenuers and help the continent solve the high unemployment rate in Africa.  </p>
+            <h2>Welcome to My Den.</h2>
+            <p> Drinking alot of Coffee is one of my Job requirements.  </p>
 <p>
-    <i>Since it was launched in 2002, Etana has provided millions with the information, inspiration and connections they need to start, grow and manage a successful startup business. Founded by passionate entrepreneur, <b>Liam Abenger</b>, Etana is an online Youth Incubator located in Nairobi, Kenya.
-
+    <i>Since i started programming in 2021 after the pandemic, I have provided millions with the information, inspiration and connections they need to start, grow and manage a successful startup business theough my coding skills. 
+        <br>
+        <p>I am passionate developer, <b>Liam Abenger</b>,located in Nairobi, Kenya.
+        </p>
     </i> 
 </p>
-            <img src = 
+            <a href="https://placeholder.com"><img src="https://via.placeholder.com/500"></a>
 
-            <h3>Here is list of countries we operate in across Africa.
+            <h3>Here is list of projects I have worked on:
             <ul>
-             <li>Kenya</li>
-             <li>South Africa</li>
-             <li>Egypt</li>
-             <li>Ghana</li>
+             <li>Safaricom Smartwatch interface</li>
+             <li>Bank of Africa Group website</li>
+             <li>Elimu website</li>
+             <li>Moringa School website</li>
              </ul>
             
              <p>       
 <hr>
-                We believe in the <em>transformative power</em> of entrepreneurship for individuals and for society at large, and we want our reach to be as deep and as broad as it can possibly be.
-
+                If you like any of my work in <em>My Portfolio</em>. Please reach out to me incase you have anymore questions that you would love to discuss.
                 We sincerely thank you for visiting us and look forward to being your partner in conquering the challenges of entrepreneurship. 
                 <br>
 
@@ -51,4 +52,3 @@
 
     </body>
 </html>
-
