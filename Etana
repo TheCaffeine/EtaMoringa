@@ -17,14 +17,16 @@
             
             <h2>Welcome to My Den.</h2>
             <p> Drinking alot of Coffee is one of my Job requirements.  </p>
+
+            <header><b>Fun Facts about me</b> </header>
 <p>
     <i>Since i started programming in 2021 after the pandemic, I have provided millions with the information, inspiration and connections they need to start, grow and manage a successful startup business theough my coding skills. 
         <br>
-        <p>I am passionate developer, <b>Liam Abenger</b>,located in Nairobi, Kenya.
+        <p>I am a passionate developer, <b>Liam Abenger</b>,located in Nairobi, Kenya.
         </p>
     </i> 
 </p>
-            <a href="https://placeholder.com"><img src="https://via.placeholder.com/500"></a>
+<a href="https://placeholder.com"><img src="https://via.placeholder.com/500"></a>
 
             <h3>Here is list of projects I have worked on:
             <ul>
@@ -45,10 +47,11 @@
                     The rewards are yours to keep.
                   </strong> 
                 </p>
-                <a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin">The Etana Team</a>
+                <a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin">Mark Abenger</a>
              </p>
 
 
 
     </body>
 </html>
+
