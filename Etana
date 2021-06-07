@@ -10,6 +10,7 @@
 </head>
 
 <body>
+    
     <h1>Abenger</h1>
     <ul>
         <li> Sign up</li>
@@ -57,9 +58,17 @@
     <h3>Here is list of projects I have worked on:
         <ul>
             <li>Safaricom Smartwatch interface</li>
+            <p>1.Used Python as the core language and CSS for styling</p>
+
             <li>Bank of Africa Group website</li>
+            <p>2.Used Html as the core language and CSS for styling</p>
+
             <li>Elimu website</li>
+            <p>3.Used Html as the core language and CSS for styling</p>
+
             <li>Moringa School website</li>
+            <p>4.Used Html as the core language and CSS for styling</p>
+
         </ul>
 
         <p>
@@ -100,7 +109,7 @@
                     <li>Javascript</li>
 
                 </div>
-                
+
                 </ul>
 
             </span>
