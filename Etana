@@ -5,9 +5,9 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=" device-width, intial-scale=1">
-    <link rel="stylesheet" href="style.css"/>
+    <link rel="stylesheet" href="CSS/style.css"/>
 
-    
+
     <title>
         Mark Abenger
     </title>
@@ -16,35 +16,40 @@
 <body>
     <header class="main-header"> 
 <nav>
+    
     <ul>
-        <li><a href="index.html">HOME</a></li>
-        <li><a href="index.html">ABOUT_ME</a></li>
-        <li><a href="index.html">SIGN_UP</a></li>
+        <a href="index.html">HOME</a>
+        <a href="index.html">ABOUT_ME</a>
+        <a href="index.html">SIGN_UP</a>
+
     </ul>
+
 </nav>
+
        <hr>
        
-    <h1>Abenger</h1>
-   
+      <h1>ABENGER</h1>
+      <h2>Welcome to My Den.</h2>
+      
 </header>
 
-    <h2>Welcome to My Den.</h2>
+   
     <p> Drinking alot of Coffee is one of my Job requirements. </p>
 
     <header><b>Fun Facts about me</b> </header>
     <p>
-        <i>Since i started programming in 2021 after the pandemic, I have provided millions with the information,
-            inspiration and connections they need to start, grow and manage a successful startup business theough my
+        <i>Since I started programming in 2021 after the pandemic, I have provided millions with the information,
+            inspiration and connections they need to start, grow and manage a successful startup business through my
             coding skills.
             <br>
-            <p>I am a passionate developer, <b>Liam Abenger</b>,located in Nairobi, Kenya.
+            <p>I am a passionate developer, <b>Mark Liam Abenger</b>,located in Nairobi, Kenya.
             <ol>
                 <li><b>Education</b> - 2 degrees, Marketing and Financial Economics</li>
-                <li><b>Job Experienve</b> - 8+years in marketing. Working in the intersection of marketing and
+                <li><b>Job Experience</b> - 8+years in marketing. Working at the intersection of marketing and
                     technology in large agencies and tech startups</li>
 
 
-                <P><b>Why did I get into PROGRAMMING?</b> Unfortunately, during the pandemic most of the marketing
+              <P><b>Why did I get into PROGRAMMING?</b> Unfortunately, during the pandemic most of the marketing
                     budget for big multinationals was slashed and there was a subsequent ripple effect in the industry.
 
                     Luckily, the company I was working for stormed through, but the pandemic had initiated a peculiar
@@ -54,9 +59,9 @@
                     I talked to my boss about my interests in pursuing this long overdue passion of mine in coding. We
                     came to an agreement and we parted ways.
 
-                    Now, here I am, standing tall and proud of the decision to apply because I got into prep. I know
-                    prep is just a precursor to the core but I know the drive I have will see me get through into the
-                    core programing. </P>
+
+                    <br><br> Now, here I am, standing tall and proud of the decision to apply because I am now a programmer. 
+                    </P>
             </ol>
     </p>
     </i>
@@ -138,7 +143,17 @@
         <a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin">Mark Abenger</a>
         </p>
 
+<main-footer>
 
+<nav>
+
+    <li><a href="index.html">Instagram</a></li>
+    <li><a href="index.html">Facebook</a></li>
+    <li><a href="index.html">Twitter</a></li>
+
+</nav>
+
+</main-footer>
 
 </body>
 
