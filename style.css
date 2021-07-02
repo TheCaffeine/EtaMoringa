@@ -2,8 +2,9 @@
     font-family: myFirstFont;
     src: url(sansation_bold.woff);
     font-weight: bold;
-  }
     font-style: normal;
+  }
+    
 }
 .topnav {
     background-color: #333;
