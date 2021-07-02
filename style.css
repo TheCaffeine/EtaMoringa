@@ -57,7 +57,19 @@
     font-size: 8em;
 }
 
+html, body {
+    height: center horizontally;
+}
 
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+}
 .container {
     max-width: 900px;
     margin: 0 auto;
