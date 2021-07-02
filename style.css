@@ -8,100 +8,33 @@
     font-weight: normal;
     font-style: normal;
 }
-/* Style the header with a grey background and some padding */
-.header {
+/* Add a black background color to the top navigation */
+.topnav {
+    background-color: #333;
     overflow: hidden;
-    background-color: #f1f1f1;
-    padding: 20px 10px;
   }
   
-  /* Style the header links */
-  .header a {
+  /* Style the links inside the navigation bar */
+  .topnav a {
     float: left;
-    color: black;
+    color: #f2f2f2;
     text-align: center;
-    padding: 12px;
+    padding: 14px 16px;
     text-decoration: none;
-    font-size: 18px; 
-    line-height: 25px;
-    border-radius: 4px;
+    font-size: 17px;
   }
   
-  /* Style the logo link (notice that we set the same value of line-height and font-size to prevent the header to increase when the font gets bigger */
-  .header a.logo {
-    font-size: 25px;
-    font-weight: bold;
-  }
-  
-  /* Change the background color on mouse-over */
-  .header a:hover {
+  /* Change the color of links on hover */
+  .topnav a:hover {
     background-color: #ddd;
     color: black;
   }
   
-  /* Style the active/current link*/
-  .header a.active {
-    background-color: dodgerblue;
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    background-color: #04AA6D;
     color: white;
   }
-  
-  /* Float the link section to the right */
-  .header-right {
-    float: right;
-  }
-  
-  /* Add media queries for responsiveness - when the screen is 500px wide or less, stack the links on top of each other */ 
-  @media screen and (max-width: 500px) {
-    .header a {
-      float: none;
-      display: block;
-      text-align: left;
-    }
-    .header-right {
-      float: none;
-    }
-  }
-  
-* {
-    box-sizing: border-box;
-    font-family: Raleway;
-    color: #777;
-}
-
-html, body {
-    margin: 0;
-    padding: 0;
-}
-
-.nav ul {
-    margin: 0;
-}
-
-.nav li {
-    display: inline;
-}
-
-.nav a {
-    display: inline-block;
-    padding: .5em;
-    color: white;
-    text-decoration: none;
-}
-
-.main-nav {
-    text-align: center;
-    font-size: 1.1em;
-    font-weight: lighter;
-    border-bottom: 1px solid rgba(255, 255, 255, .3)
-}
-
-.main-nav li {
-    padding: 0 5%;
-}
-
-.nav a:hover {
-    background-color: rgba(255, 255, 255, .3)
-}
 
 .main-header {
     background-color: rgba(0, 0, 0, .9);
