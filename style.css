@@ -1,9 +1,10 @@
 @font-face {
-    font-family: myFirstFont;
-    src: url(sansation_bold.woff);
-    font-weight: bold;
-    font-style: normal;
-  }
+    @font-face {
+        font-family: "myfont";
+        src: url("fonts/awesome-font-boldoblique.woff") format('woff');
+        font-weight: bold;
+        font-style: italic;
+    }
     
 }
 .topnav {
