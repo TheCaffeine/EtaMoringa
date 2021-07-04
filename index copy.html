@@ -14,20 +14,31 @@
 </head>
 
 <body>
-    <div class="container"
-    <header></header> class="main-header"> 
-      
- <nav>
-    
-    <ul>
-        <li><a href="index.html"><span>HOME</a></li></span>
-        <li></li><a href="index.html"><span>ABOUT_ME</a></li></span>
-        <li></li><a href="index.html"><span>SIGN_UP</a></li></span>
-        
-
-    </ul>
-
- </nav>
+    <div class="header" id="head">	
+        <div class="container"> 
+           <div class="header-top">
+                 <div class="logo">
+                  <a href="index.html"><img src="images/Groot.png" alt=""/></a>
+               </div>
+             <div class="top-menu">
+                 <span class="menu"> </span>
+              <ul>
+                   <nav class="cl-effect-5">
+                  <li><a class="active" href="index.html"><span data-hover="Home">home</span></a></li>
+                  <li><a href="#about" class="scroll"><span data-hover="about">about</span></a></li>
+                  <li><a href="#work" class="scroll"><span data-hover="work"><span>work</span></a></li>
+                  <li><a href="#services" class="scroll"><span data-hover="services">services</span></a></li>
+                  <li><a href="#contact" class="scroll"><span data-hover="contact">contact</span></a></li>
+                  </nav>
+               </ul>
+               </div>
+               <!--script-nav-->
+           <script>
+           $("span.menu").click(function(){
+           $(".top-menu ul").slideToggle("slow" , function(){
+           });
+           });
+</script>
 
        <hr>
         
